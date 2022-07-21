@@ -30,7 +30,6 @@ d3.csv(chartdata).then(function(datapoints) {
                 'Kylian Mbappé',
                 'Kevin De Bruyne',
                 'Neymar',
-                'Erling Haaland',
                 ],
                 datasets:[{
                     label:'Points',
@@ -106,7 +105,7 @@ d3.csv(chartdata).then(function(datapoints) {
                 'Kylian Mbappé',
                 'Kevin De Bruyne',
                 'Neymar',
-                'Erling Haaland', 	],
+ 	],
              datasets:[{
                             label:'Goals',
                             data: Goals,
@@ -178,7 +177,7 @@ d3.csv(chartdata).then(function(datapoints) {
                 'Kylian Mbappé',
                 'Kevin De Bruyne',
                 'Neymar',
-                'Erling Haaland',],
+                ],
                 datasets :[{
                     label:'Titles',
                     backgroundColor: [
